@@ -1,5 +1,6 @@
-print("Pham Tuan Da ")
-print("mssv: 235752021610105")
+print("le van thanh")
+print("mssv: 235752021610020")
+
 from tkinter import *
 
 def NewFile():
